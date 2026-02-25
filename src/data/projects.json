@@ -1,0 +1,47 @@
+[
+  {
+    "id": 101,
+    "name": "Claims Automation",
+    "description": "Automate the insurance claims processing pipeline to reduce manual review time.",
+    "startDate": "2025-01-15",
+    "endDate": "2025-06-30",
+    "complexity": "High",
+    "employees": [1, 2, 3]
+  },
+  {
+    "id": 102,
+    "name": "Customer Portal Redesign",
+    "description": "Redesign the customer-facing portal for improved usability and mobile responsiveness.",
+    "startDate": "2025-03-01",
+    "endDate": "2025-08-31",
+    "complexity": "Medium",
+    "employees": [3, 4, 7]
+  },
+  {
+    "id": 103,
+    "name": "Policy Management System",
+    "description": "Build a centralized system for managing life insurance policy renewals and updates.",
+    "startDate": "2026-04-01",
+    "endDate": "2026-12-31",
+    "complexity": "High",
+    "employees": [1, 2, 8]
+  },
+  {
+    "id": 104,
+    "name": "HR Onboarding Tracker",
+    "description": "Internal tool to track new hire onboarding progress and compliance checklists.",
+    "startDate": "2025-11-01",
+    "endDate": "2026-02-28",
+    "complexity": "Low",
+    "employees": [6, 7]
+  },
+  {
+    "id": 105,
+    "name": "Financial Reporting Dashboard",
+    "description": "Interactive dashboard for quarterly financial reporting and KPI visualization.",
+    "startDate": "2025-09-15",
+    "endDate": "2026-03-15",
+    "complexity": "Medium",
+    "employees": [5, 3, 2]
+  }
+]

@@ -1,4 +1,4 @@
-var employees = [];
+var employees = require('../data/employees.json');
 
 function getAll() {
   return employees;

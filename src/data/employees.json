@@ -1,0 +1,10 @@
+[
+  { "id": 1, "name": "Alice Reyes", "department": "Engineering" },
+  { "id": 2, "name": "Ben Santos", "department": "Engineering" },
+  { "id": 3, "name": "Clara Tan", "department": "Product" },
+  { "id": 4, "name": "Daniel Cruz", "department": "Design" },
+  { "id": 5, "name": "Eva Lim", "department": "Finance" },
+  { "id": 6, "name": "Felix Gomez", "department": "HR" },
+  { "id": 7, "name": "Grace Ong", "department": "Product" },
+  { "id": 8, "name": "Henry Bautista", "department": "Engineering" }
+]

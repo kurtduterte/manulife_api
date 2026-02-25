@@ -1,4 +1,4 @@
-var projects = [];
+var projects = require('../data/projects.json');
 
 function getAll() {
   return projects;
